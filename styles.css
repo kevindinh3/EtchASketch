@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+
+.column {
+    background: lightblue;
+    height: 50px;
+    flex: 1;
+}
+
+.row {
+    background: lightblue;
+    height: 50px;
+    flex: 1;
+}
+
+.column:hover {
+    background-color: blue;
+}
